@@ -1,8 +1,8 @@
 # Creating a dictionary
 my_dict = {
-    "name": "Alice",
-    "age": 30,
-    "city": "New York"
+    "name": "Akib",
+    "age": 20,
+    "city": "Dubai"
 }
 
 # Accessing elements
@@ -10,7 +10,7 @@ print("Name:", my_dict["name"])  # Output: Alice
 print("Age:", my_dict["age"])    # Output: 30
 
 # Adding a new key-value pair
-my_dict["email"] = "alice@example.com"
+my_dict["email"] = "akib@example.com"
 print("Updated dictionary:", my_dict)
 
 # Updating an existing key
@@ -46,10 +46,10 @@ print("Number of items in the dictionary:", len(my_dict))  # Output: 3
 # Creating a nested dictionary
 nested_dict = {
     "person": {
-        "name": "Bob",
-        "age": 25
+        "name": "Akib",
+        "age": 20
     },
-    "location": "Los Angeles"
+    "location": "Dubai"
 }
 print("Nested dictionary:", nested_dict)
 print("Accessing nested value:", nested_dict["person"]["name"])  # Output: Bob

@@ -1,5 +1,5 @@
 # Number of total rows for the full pattern
-n = 5
+n = 10
 
 # First half of the pattern (increasing stars)
 for i in range(1, n + 1):
